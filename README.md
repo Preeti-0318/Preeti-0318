@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rajalaxmi</h1>
-<h3 align="center">A passionate Full Stack Developer (Frontend + Backend)</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Rajalaxmi;Full+Stack+Developer;HTML+%7C+CSS+%7C+JavaScript&center=true&width=380&height=50">
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Preeti-0318&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
