@@ -1,6 +1,9 @@
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=540928&background=00000004&multiline=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rajalaxmi;A+passionate+Full+Stack+Developer+(Frontend+%2B+Backend)" alt="Typing SVG" />
-</a>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=540928&background=00000004&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rajalaxmi" alt="Typing SVG" />
+  </a>
+</div>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Preeti-0318&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
