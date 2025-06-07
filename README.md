@@ -98,14 +98,21 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Preeti-0318&theme=onedark" />
 </p>
 
-### Contribution Graph
+### 📊 GitHub Stats & Graphs
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Preeti-0318&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=-Preeti-0318&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Preeti-0318&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Preeti-0318&theme=tokyo-night" alt="GitHub Contribution Graph"/>
+</p>
+
+### 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=-Preeti-0318&layout=compact&theme=tokyonight" />
 </p>
 
 
