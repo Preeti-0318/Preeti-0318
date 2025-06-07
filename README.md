@@ -101,7 +101,7 @@
 ### 📊 GitHub Stats & Graphs
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=-Preeti-0318&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Preeti-0318&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Preeti-0318&theme=tokyonight" width="48%" />
 </p>
 
@@ -112,9 +112,8 @@
 ### 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=-Preeti-0318&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preeti-0318&layout=compact&theme=tokyonight" />
 </p>
-
 
 ---
 
