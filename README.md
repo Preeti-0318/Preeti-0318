@@ -47,18 +47,6 @@
   <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Preeti-0318&show_icons=true&theme=dracula" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preeti-0318&layout=compact&theme=dracula" />
-</p>
-
----
-
 ### 💡 Quote of the Day
 
 > “The best error message is the one that never shows up.” 
@@ -69,8 +57,6 @@
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>  
 </p>
-
----
 
 ### 🛠️ Languages and Tools
 
@@ -84,13 +70,7 @@
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Preeti-0318&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
 
 ### 🏆 GitHub Trophies
 
