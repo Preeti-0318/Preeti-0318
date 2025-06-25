@@ -84,7 +84,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Preeti-0318&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Preeti-0318&theme=tokyonight" width="48%" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Preeti-0318&theme=tokyo-night" alt="GitHub Contribution Graph" />
+</p>
 
 
 ### 📈 Most Used Languages
